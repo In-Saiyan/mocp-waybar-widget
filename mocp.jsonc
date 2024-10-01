@@ -1,0 +1,15 @@
+    "custom/mocp": {
+        "exec": "mocp_script.sh",
+        "format": " {}",
+        "rotate": ${r_deg},
+        "return-type": "json",
+        "on-click": "mocp -G",
+        "on-click-right": "mocp -f",
+        "on-click-middle": "mocp -r",
+        "on-scroll-up": "mocp -v +10",
+        "on-scroll-down": "mocp -v -10",
+        "max-length": 50,
+        "escape": true,
+        "tooltip": true
+    },
+
