@@ -1,4 +1,4 @@
-# Mocp waybar integration widget
+# Mocp waybar integrated widget module
 
 Mocp is a minimal, terminal based music player. This repo adds the support to control the playback of mocp using waybar.
 ![image](https://github.com/user-attachments/assets/54e9cea5-414c-47ba-bb81-5f59d60025d5)
